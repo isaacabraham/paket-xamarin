@@ -1,0 +1,15 @@
+namespace PaketLoadScripts
+
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.AspNetCore.Authentication.Core.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.AspNetCore.Hosting.Abstractions.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.AspNetCore.Http.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.AspNetCore.Http.Extensions.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.AspNetCore.HttpOverrides.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.Extensions.Logging.Abstractions.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.Extensions.Options.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\System.Buffers.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\System.IO.Pipelines.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\System.Numerics.Vectors.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\System.Runtime.CompilerServices.Unsafe.csx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\System.Security.Principal.Windows.csx" 
+#r "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.aspnetcore.server.iisintegration\\2.2.1\\lib\\netstandard2.0\\Microsoft.AspNetCore.Server.IISIntegration.dll" 

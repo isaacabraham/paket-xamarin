@@ -1,0 +1,6 @@
+namespace PaketLoadScripts
+
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.IdentityModel.JsonWebTokens.fsx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Microsoft.IdentityModel.Tokens.fsx" 
+#load "C:\\Users\\Isaac\\Source\\Repos\\paketbug\\.paket\\load\\Newtonsoft.Json.fsx" 
+#r "C:\\Users\\Isaac\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.6.0\\lib\\netstandard2.0\\System.IdentityModel.Tokens.Jwt.dll" 
